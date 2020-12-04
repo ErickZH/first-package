@@ -2,8 +2,8 @@
 
 namespace Erickzh\FirstPackage;
 
-use Illuminate\Support\ServiceProvider;
 use Erickzh\FirstPackage\Commands\FirstPackageCommand;
+use Illuminate\Support\ServiceProvider;
 
 class FirstPackageServiceProvider extends ServiceProvider
 {

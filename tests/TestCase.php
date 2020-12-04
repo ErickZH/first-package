@@ -2,9 +2,9 @@
 
 namespace Erickzh\FirstPackage\Tests;
 
+use Erickzh\FirstPackage\FirstPackageServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Erickzh\FirstPackage\FirstPackageServiceProvider;
 
 class TestCase extends Orchestra
 {
